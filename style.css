@@ -2,9 +2,9 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
 :root{
-    --textcolor: #6fa8dc; /* Blue */
-    --primary-color: #073763;/* Navy */
-    --secondary-color: #93c47d; /* Green*/
+    --textcolor: #073763; /* Navy */
+    --primary-color: #0000ff;/* Blue */
+    --secondary-color: #565656; /* Gray*/
     --link-color: #6a329f; /* Purple for links */
     --space-background: #002855; /* Dark Blue */
 }
@@ -22,7 +22,7 @@ img {
 body{
     margin: 0;
     padding: 0;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Times New Roman', serif;
     position: relative;
     height: 100vh;
     color: var(--textcolor);
